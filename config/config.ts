@@ -124,7 +124,7 @@ export default defineConfig({
 
     {
       path: '/',
-      redirect: '/dashboard/analysis',
+      redirect: '/form/basic-form',
     },
     {
       component: '404',
