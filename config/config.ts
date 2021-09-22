@@ -50,6 +50,12 @@ export default defineConfig({
           component: './form/basic-form',
         },
         {
+          name: 'xz-form',
+          icon: 'smile',
+          path: '/form/xz-form',
+          component: './form/xz-form',
+        },
+        {
           name: 'step-form',
           icon: 'smile',
           path: '/form/step-form',
